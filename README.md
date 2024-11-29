@@ -13,12 +13,16 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Yousfshah](https://github.com/Yousfshah)
 
 - 📫 How to reach me **contact.ys09@gmail.com**
+  
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yousuf-shah-7ba9492b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousuf shah" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/yousufshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yousuf shah" height="30" width="40" /></a>
 </p>
+
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousfshah&show_icons=true&locale=en&layout=compact" alt="yousfshah" /></p>
 
