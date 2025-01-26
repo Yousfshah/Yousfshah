@@ -1,22 +1,18 @@
-<div align="center">
-    <img alt="Banner-Img" src="https://github.com/Yousfshah/Yousfshah/blob/main/Banner.jpg" style="width: 100%; max-width: 800px; height: 380px; border-radius: 10px;"/>
+<div style="text-align: center;">
+    <img alt="Banner-Img" src="https://github.com/Yousfshah/Yousfshah/blob/main/Banner.jpg" style="width: 100%; max-width: 800px; height:380px; border-radius: 10px;"/>
 </div>
 
-<h1 align="center">👋 Hi, I'm <span style="color: #16a085;">Yousuf Shah</span></h1>
-<h3 align="center" style="color: #2980b9;">I consider myself a student of data science and analysis</h3>
+<h1 align="center" style="color: #2c3e50;">👋 Hi, I'm <span style="color: #16a085;">Yousuf Shah</span></h1>
+<h3 align="center" style="color: #2980b9;">I am a learner committed to strengthening my expertise in the field of data science and analysis</h3>
 
-<p align="center">
-  <img align="center" alt="Coding-Animation" src="https://github.com/Yousfshah/Yousfshah/blob/main/gif.gif" height="250px" width="400px" style="border-radius: 10px;"/>
-</p>
+<img align="right" alt="Coding-Animation" src="https://github.com/Yousfshah/Yousfshah/blob/main/gif.gif" height="250px" width="400px" style="border-radius: 10px; margin-left: 20px;"/>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=yousfshah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
 ### 🌟 About Me  
-- 🌱 **I’m currently learning**: Data Science & Analysis  
+- 🌱 **I’m currently learning**: Data Science & Analysis
 - 👨‍💻 **All of my projects** are available at: [My GitHub Portfolio](https://github.com/Yousfshah/MY_All_Projects)  
 - 📫 **How to reach me**: contact.ys09@gmail.com  
 - 🌐 **Check out my Portfolio Website**: [Visit Here](https://yousfshah.github.io/Portfolio_Website/)  
@@ -27,18 +23,34 @@
 
 ### 🤝 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/yousuf-shah-7ba9492b4/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.kaggle.com/yousufshah" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a>
-  <a href="https://github.com/Yousfshah" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://yousfshah.github.io/Portfolio_Website/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio_Website-16a085?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Website">
-  </a>
+<div>
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/yousuf-shah-7ba9492b4/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="https://yousfshah.github.io/Portfolio_Website/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio_Website-Website-blue?style=for-the-badge&logo=link" alt="Portfolio Website" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Yousfshah" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github" alt="GitHub" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.kaggle.com/yousufshah" target="_blank">
+          <img src="https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle" alt="Kaggle" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 </p>
 
 ---
@@ -55,7 +67,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
@@ -69,15 +80,15 @@
   <img src="https://img.shields.io/badge/-Beautiful_Soup-8A9296?style=for-the-badge&logo=beautifulsoup4&logoColor=white" alt="Beautiful Soup" />
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/-Scrapy-FF4C4C?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy" />
-  <img src="https://img.shields.io/badge/-AutoML Libraries-008000?style=for-the-badge&logo=automl&logoColor=white" alt="AutoML Libraries" />
-  <img src="https://img.shields.io/badge/-AutoEDA Libraries-4169E1?style=for-the-badge&logoColor=white" alt="AutoEDA Libraries" />
+  <img src="https://img.shields.io/badge/-AutoML_Libraries-008000?style=for-the-badge&logo=automl&logoColor=white" alt="AutoML Libraries" />
+  <img src="https://img.shields.io/badge/-AutoEDA_Libraries-4169E1?style=for-the-badge&logoColor=white" alt="AutoEDA Libraries" />
 </p>
 
 ---
 
 ### 🚀 Highlights  
-- 🔍 Explore my detailed [Portfolio Website](https://yousfshah.github.io/Portfolio_Website/) to see my projects and achievements!  
-- 💡 My goal is to contribute to impactful projects and improve my skills in **Data Science**, **Generative AI**, and **Agentic AI**.  
+- 🔍 Explore my detailed [Portfolio Website](https://yousfshah.github.io/Portfolio_Website/) to see my projects, and achievements!
+- 💡 My goal is to contribute impactful projects and improve my skills in **Data Science**, **Generative AI**, and **Agentic AI**.
 - 🎯 Always ready to collaborate and learn!
 
 ---
