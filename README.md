@@ -5,7 +5,7 @@
 <h1 align="center" style="color: #2c3e50;">👋 Hi, I'm <span style="color: #16a085;">Yousuf Shah</span></h1>
 <h3 align="center" style="color: #2980b9;">I am a learner committed to strengthening my expertise in the field of data science and analysis</h3>
 
-<img align="right" alt="Coding-Animation" src="https://github.com/Yousfshah/Yousfshah/blob/main/gif.gif" height="250px" width="400px" style="border-radius: 10px; margin-left: 20px;"/>
+<img align="right" alt="Coding-Animation" src="https://github.com/Yousfshah/Yousfshah/blob/main/gif.gif" style="width: 100%; max-width: 800px; height:300px; border-radius: 10px;"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yousfshah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
